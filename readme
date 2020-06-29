@@ -1,0 +1,7 @@
+Il suffit d'exécuter le script  ./Makefile , et ensuite d'appeler le fichier d'exécution produit de la manière suivante :
+
+./dazibao  " adresse " " destination_port " " source_port " " level_debug "
+
+level_debug pouvant prendre les valeurs 0 pour les traces d'erreurs, 1 pour des traces partielles et 2 pour l'ensemble des traces.
+
+exemple d'exécution : " ./dazibao jch.irif.fr 1212 1717 2 " .
